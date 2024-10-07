@@ -1,4 +1,8 @@
 # topicos-ia-2024-1er-parcial
+## Datos del estudiante
+**Nombre:** Ambar Monica Rojas Morales
+
+**Código:** 61375
 
 
 ## instrucciones
